@@ -6,8 +6,10 @@
 	<link type='text/css' rel='stylesheet' href='css/main.css'/>
 </head>
 <body>
+	<div class="NameClass">
+	(
 	<h1>Rich Bailey</h1>
-	
+	</div>
 	<h2>Hobbies</h2>
 	<ul>
 		<li>Mountain Biking</li>
@@ -30,6 +32,35 @@
 	
 	<h2>Self Rating</h2>
 	<p>Beginner</p>
+	
+	<div id="beers">
+	<table>
+		<tr>
+		<th scope="col">Stout    </th>
+		<th scope="col">Ale      </th>
+		<th scope="col">IPA      </th>
+		<th scope="col">Hefe     </th>
+		</tr>
+		<tr>
+		<th scope="col">Guiness  </th>
+		<th scope="col">Acme     </th>
+		<th scope="col">Flipside </th>
+		<th scope="col">Paulaner </th>
+		</tr>
+		<tr>
+		<th scope="col">Left Hand</th>
+		<th scope="col">Dales    </th>
+		<th scope="col">Rampant  </th>
+		<th scope="col">Keller     </th>
+		</tr>
+		<tr>
+		<th scope="col">Stout    </th>
+		<th scope="col">Ale      </th>
+		<th scope="col">Ranger   </th>
+		<th scope="col">Boulevard</th>
+		</tr>
+	</table>
+	</div>
 </body>
 </html>
 
